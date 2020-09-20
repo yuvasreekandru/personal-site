@@ -495,7 +495,8 @@ body{
    .f-name input:focus{
     border-bottom: 1px solid #17d1ac;
     transition: all ease 0.5s;
-   }.message span{
+   }
+   .message span{
     font-size: 18px;
     color:#4E4E4E;
     font-family: calibri;
